@@ -7,5 +7,7 @@
 
 ### 목차
 
-1. [챕타 원](Chapter1/chapter1-서론.md)
+#### chapter1
+- [서론 및 전반부](Chapter1/chapter1-서론.md)
+- [카탈로그 및 인터페이스](Chapter1/chapter1-카탈로그.md)
 
